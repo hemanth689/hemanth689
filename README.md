@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hemanth Kumar</h1>
 
 <h3 align="center">
-Frontend Focused Full Stack Developer | React.js | JavaScript | TypeScript | Redux | Node.js | Express.js | SQL | PostgreSQL | HTML | CSS 
+Frontend Developer | React.js | JavaScript | TypeScript
 </h3>
 
 <p align="center">
-Building scalable, responsive and high-performance web applications.
+Building scalable, responsive and user-centric web applications.
 </p>
 
 ---
@@ -15,8 +15,9 @@ Building scalable, responsive and high-performance web applications.
 - 💼 Frontend Developer with **1+ years of professional experience**
 - ⚛️ Experienced in building scalable React applications
 - 🌱 Currently learning **Advanced TypeScript, Docker, CI/CD and System Design**
-- 🚀 Interested in Frontend Engineering, Performance Optimization and Full Stack Development
+- 🚀 Passionate about Frontend Engineering, Performance Optimization and Full Stack Development
 - 📍 Bangalore, India
+- 💡 Always exploring modern web technologies and best development practices
 
 ---
 
@@ -24,45 +25,59 @@ Building scalable, responsive and high-performance web applications.
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
-
-![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui)
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-
----
+- React.js
+- JavaScript (ES6+)
+- TypeScript
+- Redux Toolkit
+- Redux Saga
+- HTML5
+- CSS3
+- Material UI
+- Bootstrap
 
 ### Backend
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+- Node.js
+- Express.js
+- REST APIs
+- JWT Authentication
 
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+### Database
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+- PostgreSQL
+- Sequelize ORM
+- SQL
 
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize)
+### Programming Languages
+
+- Java
+- JavaScript
+- TypeScript
+- Python
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- Postman
+- npm
 
 ---
 
 ## 💼 Professional Experience
 
-**Frontend Developer**
+As a Frontend Developer, I have contributed to building and maintaining React-based web applications with a strong focus on performance, scalability and user experience.
 
-- Developed scalable React applications
-- Built reusable UI components
-- Worked with Redux Toolkit & Redux Saga
-- Integrated REST APIs
-- Improved application performance
-- Built responsive interfaces using Material UI
-- Collaborated with backend developers and QA teams
+Highlights include:
+
+- Developing reusable and maintainable React components
+- Integrating REST APIs for dynamic user interfaces
+- Managing application state using Redux Toolkit and Redux Saga
+- Optimizing application performance and rendering
+- Building responsive user interfaces with Material UI
+- Collaborating with backend developers and QA teams
+- Debugging and enhancing production applications
 
 ---
 
@@ -70,24 +85,28 @@ Building scalable, responsive and high-performance web applications.
 
 ### 🚀 Full Stack User Management System
 
-A production-ready full-stack application built using React.js, Node.js, Express.js and PostgreSQL.
+A production-ready full-stack application built with React.js, Node.js, Express.js and PostgreSQL.
 
-### Features
+### Key Features
 
 - JWT Authentication
 - Login & Registration
 - Protected Routes
 - CRUD Operations
 - User Management
-- Infinite Scroll
 - Pagination
-- Material UI
+- Infinite Scrolling
 - Responsive Design
+- Material UI
+- REST APIs
+- PostgreSQL Database
+- Sequelize ORM
 
 🔗 Repository
 
 https://github.com/hemanth689/fullstack-user-management
 
+---
 
 ## 📚 Currently Learning
 
@@ -95,36 +114,21 @@ https://github.com/hemanth689/fullstack-user-management
 - Docker
 - CI/CD
 - System Design
+- Design Patterns
 
 ---
 
 ## 🧩 Problem Solving
 
-- Java
-- Data Structures & Algorithms
-- LeetCode Practice
+- Solving Data Structures & Algorithms using Java
+- Regularly practicing coding interview problems
+- Continuously improving problem-solving and analytical skills
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Career Objective
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hemanth689&show_icons=true&theme=github_dark"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanth689&layout=compact&theme=github_dark"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=hemanth689&theme=github-dark"/>
-
-</p>
+I'm actively looking for opportunities where I can contribute as a Frontend Developer, build impactful products, collaborate with talented teams, and continue growing as a software engineer.
 
 ---
 
@@ -137,5 +141,7 @@ https://www.linkedin.com/in/hemanth-kumar-71091b2b8
 📧 Email
 
 bangihemanthkumar7231@gmail.com
+
+---
 
 ⭐ Thanks for visiting my profile!
