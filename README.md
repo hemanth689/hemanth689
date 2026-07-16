@@ -33,7 +33,6 @@ Building scalable, responsive and user-centric web applications.
 - HTML5
 - CSS3
 - Material UI
-- Bootstrap
 
 ### Backend
 
@@ -50,10 +49,9 @@ Building scalable, responsive and user-centric web applications.
 
 ### Programming Languages
 
-- Java
 - JavaScript
 - TypeScript
-- Python
+- Java
 
 ### Tools
 
