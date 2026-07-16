@@ -118,11 +118,13 @@ https://github.com/hemanth689/fullstack-user-management
 
 ---
 
-## 🧩 Problem Solving
+## 🧠 Problem Solving
 
-- Solving Data Structures & Algorithms using Java
-- Regularly practicing coding interview problems
-- Continuously improving problem-solving and analytical skills
+- Solved **230+ Data Structures & Algorithms** problems using **Java**
+- Regularly practice coding interview problems on **LeetCode**
+- Strong understanding of Arrays, Strings, LinkedList, Recursion, Backtracking, Binary Search, Stacks and Queues
+
+🔗 **LeetCode:** [https://leetcode.com/u/hemanth689/](https://leetcode.com/u/hemanth689/)
 
 ---
 
